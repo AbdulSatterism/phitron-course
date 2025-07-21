@@ -3,7 +3,7 @@
 
 
 int main(){
-int x=-123;
+ int x=-123;
      int rev = 0;
     while (x != 0) {
         int pop = x % 10;

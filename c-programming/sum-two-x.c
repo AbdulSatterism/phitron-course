@@ -24,7 +24,7 @@ int main(){
     {
         for (int j = i+1; j < n; j++)
         {
-            if( a[i], a[j] == x){
+            if( a[i]+ a[j] == x){
                 flag=1;
             }
         }
